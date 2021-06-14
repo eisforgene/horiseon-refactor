@@ -56,6 +56,6 @@ Used Semantic HTML Tags:
 
 #### Screenshots:
 
-![Screenshot 1]
-![Screenshot 2]
-![Screenshot 3]
+![Screenshot 1](https://github.com/eisforgene/horiseon-refractor/blob/main/screenshot/screenshot-1.JPG)
+![Screenshot 2](https://github.com/eisforgene/horiseon-refractor/blob/main/screenshot/screenshot-2.JPG)
+![Screenshot 3](https://github.com/eisforgene/horiseon-refractor/blob/main/screenshot/screenshot-3.JPG)
