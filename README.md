@@ -1,4 +1,4 @@
-# horiseon-refractor
+# horiseon-refactor
 
 ## Code Refactor:
 Technical Acceptance Criteria: 40%
