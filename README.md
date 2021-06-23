@@ -1,4 +1,5 @@
 # horiseon-refactor
+Check website here: https://eisforgene.github.io/horiseon-refactor/
 
 ## Code Refactor:
 Technical Acceptance Criteria: 40%
